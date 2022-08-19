@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+.products{
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.banner__image{
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0) );
+}

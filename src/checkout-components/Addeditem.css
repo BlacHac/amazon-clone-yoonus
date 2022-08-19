@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.checkout__ItemImage{
+    width: 150px;
+    height: 150px;
+}
+
+.checkout__Item input{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.checkout__Item button{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    background-color: orange;
+    border-radius: 5px;
+}

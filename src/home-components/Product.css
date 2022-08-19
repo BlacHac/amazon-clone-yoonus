@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.product{
+    text-align: left;
+}
+
+.product__title{
+    font-size: 0.8rem;
+}
+
+.product_image{
+    max-height: 120px;
+}

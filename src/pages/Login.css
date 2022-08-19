@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 113px;
+    margin-top: 10px;
+}
+
+p > a, p > span > a{
+    text-decoration: none;
+}
+
+.fontSize{
+    font-size: 0.8rem;
+}
+
+.fontSize2{
+    font-size: 0.7rem;
+}
+
+input{
+    height: 30px;
+    padding: 10px 6px;
+}
+
+.buttonn{
+    background-color: #f0c14b;
+    box-shadow: 0 0 5px;
+    border : none;
+    height: 30px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    width: 100%;
+}
+
+.signUp{
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 0 2px;
+    border : none;
+    height: 30px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.size{
+    width: 350px;
+}
